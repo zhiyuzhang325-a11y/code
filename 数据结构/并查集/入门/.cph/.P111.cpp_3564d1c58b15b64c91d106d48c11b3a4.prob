@@ -1,1 +1,0 @@
-{"name":"Local: P111","url":"e:\\vscode\\code\\数据结构\\并查集\\入门\\P111.cpp","tests":[{"id":1762674797090,"input":"5 6\nM 0 1\nM 1 2\nM 1 3\nS 1\nM 1 2\nS 3\n\n3 1\nM 1 2\n\n0 0","output":"Case #1: 3\nCase #2: 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\vscode\\code\\数据结构\\并查集\\入门\\P111.cpp","group":"local","local":true}
