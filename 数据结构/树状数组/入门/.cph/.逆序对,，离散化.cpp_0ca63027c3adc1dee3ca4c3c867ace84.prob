@@ -1,0 +1,1 @@
+{"name":"Local: 逆序对,，离散化","url":"e:\\vscode\\code\\数据结构\\树状数组\\入门\\逆序对,，离散化.cpp","tests":[{"id":1763957263103,"input":"6\n5 4 2 6 3 1","output":"11"},{"id":1763957667527,"input":"10\n10 1 10 8 10 3 1 1 3 6","output":"25"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\vscode\\code\\数据结构\\树状数组\\入门\\逆序对,，离散化.cpp","group":"local","local":true}

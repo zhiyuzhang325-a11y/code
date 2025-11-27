@@ -1,0 +1,1 @@
+{"name":"Local: A(2)","url":"e:\\vscode\\code\\ccpc\\25ccpc\\huerbin\\A(2).cpp","tests":[{"id":1763018872768,"input":"2\n3\n1 4 7\n4\n4 16 28 34","output":""},{"id":1763018883806,"input":"2\n2\n3 6\n2\n2 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\vscode\\code\\ccpc\\25ccpc\\huerbin\\A(2).cpp","group":"local","local":true}

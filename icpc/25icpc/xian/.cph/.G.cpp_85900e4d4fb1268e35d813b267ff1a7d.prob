@@ -1,0 +1,1 @@
+{"name":"Local: G","url":"e:\\vscode\\code\\25xian\\G.cpp","tests":[{"id":1761724513345,"input":"5\n-1 0 1 2 3","output":"5 -5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\vscode\\code\\25xian\\G.cpp","group":"local","local":true}
